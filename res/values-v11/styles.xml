@@ -1,0 +1,9 @@
+<resources>
+
+    <style name="MyThemeSelector" parent="@android:style/Theme.DeviceDefault.Light"></style>
+
+    <style name="My.Dialog.Theme" parent="@android:style/Theme.DeviceDefault.Light.Dialog.NoActionBar"></style>
+
+    <style name="MyThemedDialog" parent="@style/My.Dialog.Theme"></style>
+
+</resources>

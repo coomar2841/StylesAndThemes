@@ -1,0 +1,11 @@
+<resources>
+
+    <style name="MyThemeSelector" parent="@android:style/Theme"></style>
+
+    <style name="My.Theme.Dialog" parent="@android:style/Theme.Dialog">
+        <item name="android:windowNoTitle">true</item>
+    </style>
+
+    <style name="MyThemedDialog" parent="@style/My.Theme.Dialog"></style>
+
+</resources>
